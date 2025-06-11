@@ -6,4 +6,4 @@ The key component of this method is the Khmer word normalization process and wor
 
 ### References:
 [^1]: KhmerCut: [https://github.com/seanghay/khmercut]
-[^2]: Khmer Syllable Reordering Search: [https://github.com/seanghay/khmercut]
+[^2]: Khmer word segmentation toolkit: [https://github.com/seanghay/khmercut]
